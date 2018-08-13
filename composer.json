@@ -1,0 +1,24 @@
+{
+  "name": "forwarddevs/testpackagesamp",
+  "description": "Sistema de Actores para SAMP",
+  "license": "MIT",
+  "keywords": [
+    "SAMP package",
+    "samp"
+  ],
+  "support": {
+    "issues": "https://github.com/Forward-Devs/testpackagesamp/issues",
+    "source": "https://github.com/Forward-Devs/testpackagesamp"
+  },
+  "authors": [
+    {
+      "name": "FR0Z3NH34R7",
+      "email": "alejandrofer116@gmail.com",
+      "homepage": "http://facebook.com/ForwardDevsES",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+        "php": ">=5.6"
+  }
+}
