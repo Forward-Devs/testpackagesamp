@@ -1,14 +1,10 @@
-# testpackagesamp
-
-SAMP Package
-
-#Instalar con Composer
+# Instalar con Composer
 
 `$ composer require forwarddevs/testpackagesamp`
 
-#Hooks
+# Hooks
 
-#OnGameModeInit
+## OnGameModeInit
 
 
 `#if defined _Actors_Component
