@@ -4,15 +4,14 @@ SAMP Package
 
 #Instalar con Composer
 
-```
-$ composer require forwarddevs/testpackagesamp
-```
+`$ composer require forwarddevs/testpackagesamp`
 
 #Hooks
 
 #OnGameModeInit
-```
-#if defined _Actors_Component
+
+
+`#if defined _Actors_Component
 		CallLocalFunction("Actor_OnComponentInit", "");
 #endif
-    ```
+`
